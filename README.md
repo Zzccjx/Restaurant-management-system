@@ -248,3 +248,8 @@ The application supports Twilio SMS for sending OTP codes.
 
 Proprietary - Restaurant POS System
 
+## Author
+**Nikunj Nakum**  
+💻 Python & Flask Developer  
+📍 India  
+🔗 GitHub: https://github.com/Zzccjx
